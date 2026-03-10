@@ -3,8 +3,8 @@
 A robust Full-Stack application built for the Huskyvoice recruitment assignment. This system allows employees to request leaves and employers to manage them through a secure, role-based dashboard.
 
 ## 🚀 Live Links
-- **Frontend (UI)**: [PASTE_YOUR_VERCEL_URL_HERE]
-- **Backend (API)**: [PASTE_YOUR_RENDER_URL_HERE]
+- **Frontend (UI)**: (https://leave-management-system-pi-black.vercel.app/)
+- **Backend (API)**: (https://leave-management-system-2ocz.onrender.com)
 
 ## 🛠 Tech Stack
 - **Frontend**: Vue.js 3 (Composition API), Tailwind CSS, Vue Router, Axios.
