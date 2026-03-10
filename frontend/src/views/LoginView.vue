@@ -11,7 +11,7 @@ const email = ref('')
 const password = ref('')
 const name = ref('')
 const role = ref('employee')
-const API = "http://localhost:5000"
+const API = "https://leave-management-system-2ocz.onrender.com"
 
 const handleSubmit = async () => {
   if (!email.value || !password.value) return alert("Please fill all fields")
