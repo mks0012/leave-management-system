@@ -9,7 +9,7 @@ const userName = localStorage.getItem('userName')
 const token = localStorage.getItem('token')
 const leaves = ref([])
 const isLoading = ref(false)
-const API = "http://localhost:5000"
+const API = "https://leave-management-system-2ocz.onrender.com"
 
 const today = new Date().toISOString().split('T')[0]
 const leaveForm = ref({ type: 'Sick Leave', start: today, end: today, reason: '' })
